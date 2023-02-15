@@ -1,0 +1,66 @@
+@media (max-width: 600px) {
+
+    .container{
+        display: inline-grid;
+      
+    }
+
+
+
+.main-left{
+    max-width: 100%;
+    padding: 43px 0px 0px 70px;
+ 
+}
+.main-left img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 3rem;
+}
+.main-left button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+}
+.main-right{
+    padding-top: 30px;
+    text-align: center;
+}
+.sect-one{
+    
+    height: 19rem;
+    width: 210%;
+
+}
+.content{
+    padding: 30px 0px 180px;
+}
+.sect-two{
+    width: 143vh
+}
+.sect-two .div-two{
+    flex-direction: column;
+    padding: 43px 0px 0px 70px;
+}
+.sect-two .sect-right{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 28px;
+}
+.sect-right .luz{
+    display: none;
+}
+.sect-three{
+    width: 100vh
+}
+.div-three{
+    padding-left: 10vh;
+    text-align: center;
+    
+}
+.right{
+    display: none;
+}
+}
